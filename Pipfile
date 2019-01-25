@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+emoji = "==0.5.1"
+semver = "==2.8.1"
+
+[requires]
+python_version = "3.7"
